@@ -17,63 +17,66 @@ ki = kk = ks = kc = ka = cl
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage ="""By.Nunu:Bot v2.1 
+helpMessage ="""NTB BOT V.02
+
+===[CΩMMΔΠD ҒΩR CRΣΔTΩR]=== 
   
-🍀[Id]: ~÷~
-🍀[Mid]: ~÷~
-🍀[All mid]:
-🍀[Me]: ~÷~
-🍀[K1/K2/K3/]: "Contact"
-🍀[K1/K2/K3 fuck:]: "Kick kicker"
-🍀[Group Id]: "Id Me Group"
-🍀[TL : "Text"]: "Auto status TL"
-🍀[Clock :]: "Name Clock"
-🍀[Up clock]: "Up date Clock"
-🍀[Name : 'text']: "Name me"
-🍀[MIC]: "mid"]: "Contact share"
-🍀[Reject]: " invite"]: "Reject invite"
-🍀[Massage add: "text"]: ~÷~
-🍀[Add confirmasi]: ~÷~
-🍀[Comment set : "Text"]: ~÷~
-🍀[Comment check]: ~÷~
-🍀[Clock: on]: "Clock name on"
-🍀[Clock: off]: "Clock name off"
-🍀[Ban]: "Add blacklist"
-🍀[Unban]: "Dalate blacklist"
-🍀[Banlist]: "Check blacklist"
-
--⚠™[ƧЄƬ]:ƇƠMMƛƝƊƧ ƧЄƬ. -
-🌿[Contact: on/off]: 
-🌿[Auto join: on/off]: 
-🌿[Cancel Invite: 1 on/off]:
-🌿[Auto share: on/off]:
-🌿[Auto leave: on/off]: 
-🌿[Comment: on/off]: 
-🌿[Auto add: on/off]: 
-🌿[Auto like: on/off]: 
-	
--⚠™ƇƠMMƛƝƊƧ ƖƝ ƬHЄ ƓƦƠƲƤƧ. ~~~~
-☘[Ban " @Tag]: 
-☘[Unban " @Tag]: 
-☘[Urlon]: "Open urL"
-☘[ปิดลิ้งค์]: "Closed urL"
-☘[ลิ้งค์]: " Check urL room"
-☘[Ginfo]: "~÷~ data room"
-☘[Invite: "mid"]: 
-☘[Say: "Text"]: "Kicker talk"
-☘[Cancel]: "Cancel invite"
-☘[Gn: "name"]: "Change name Group"
-☘[NK: "Name"]: ~÷~
-☘[Dead]: "Kick Blacklist"
-       By.Nunu
-      http://line.me/ti/p/ShgslAPyYS  
+► Id
+► Mid
+► All mid
+► Me
+► K1/K2/K3/ "Contact"
+► K1/K2/K3 fuck "Kick kicker"
+► Group Id "Id Me Group"
+► TL  ["Text"]: "Auto status TL"
+► Clock  "Name Clock"
+► Up clock "Up date Clock"
+► Name  'text']: "Name me"
+► MIC ["mid"]: "Contact share"
+► Reject ["invite"] "Reject invite"
+► Massage add ["text"]
+► Add confirmasi
+► Comment set  ["Text"]
+► Comment check
+► Clock on "Clock name on"
+► Clock off "Clock name off"
+► Ban "Add blacklist"
+► Unban "Dalate blacklist"
+► Banlist "Check blacklist"
+► Contact: on/off 
+► Auto join: on/off 
+► Cancel Invite: 1 on/off
+► Auto share: on/off
+► Auto leave: on/off 
+► Comment: on/off 
+► Auto add: on/off 
+► Auto like: on/off 
+► Ban " @Tag 
+► Unban " @Tag 
+► Urlon]: "Open urL"
+► Urloff]: "Closed urL"
+► Recheck " Check urL room"
+► Invite ["mid"]: 
+► Say ["Text"]: "Kicker talk"
+► Cancel "Cancel invite"
+► Gn ["name"]: "Change name Group"
+► NK ["Name"]
+► Dead "Kick Blacklist"
+► Kam [Tagall Member
+►  Bc ["Text"]
+► List Group
+► Sp ["Cek Kecepatan"]
+     
+  NTB BOT line.me/ti/p/~@enr7503k
+  Owner Team line.me/ti/p/~ebisuindo
+        
 """
-helpMessage2 ="""-⚠™ -
+helpMessage2 ="""-► Command Protected™ -
 
-🍃[ƤƦƠƬЄƇƬ: ƠƝ/ƠƑƑ]: 
-🍃[ƁԼƠƇƘ ƲƦԼ: ƠƝ/ƠƑƑ]: 
-🍃[ƝƛMЄԼƠƇƘ: ƠƝ/ƠƑƑ]: 
-🍃[ƁԼƠƇƘƖƝƔƖƬЄ: ƠƝ/ƠƑƑ]:  
+► ƤƦƠƬЄƇƬ: ƠƝ/ƠƑƑ]: 
+► ƁԼƠƇƘ ƲƦԼ: ƠƝ/ƠƑƑ]: 
+► ƝƛMЄԼƠƇƘ: ƠƝ/ƠƑƑ]: 
+► ƁԼƠƇƘƖƝƔƖƬЄ: ƠƝ/ƠƑƑ]:  
 	
 """
 KAC = [cl,ki,kk,ks,kc,ka]
@@ -84,7 +87,7 @@ kimid = kk.getProfile().mid
 ki2mid = ks.getProfile().mid
 Cmid = kc.getProfile().mid
 Emid = ka.getProfile().mid
-admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b","u186cf7940c7de8f76a3cbc76405f5f5c"]
+admin = ["uc77fd25b59f6e563d84f13334f3fed10b]
 me = cl.getProfile().mid
 bot1 = cl.getProfile().mid
 main = cl.getProfile().mid
@@ -97,10 +100,10 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 
-admins = ["u2c7f708769a2eb35d9ae9f73cd366e0b","u186cf7940c7de8f76a3cbc76405f5f5c"]
-Rx5 = ["u406133ad4d3fbe50a2f4d51ea081d050"]
-Rx4 = ["u406133ad4d3fbe50a2f4d51ea081d050"]
-Rx3 = ["u406133ad4d3fbe50a2f4d51ea081d050"]
+admins = ["uc77fd25b59f6e563d84f13334f3fed10b"]
+Rx5 = ["uc77fd25b59f6e563d84f13334f3fed10b"]
+Rx4 = ["uc77fd25b59f6e563d84f13334f3fed10b"]
+Rx3 = ["uc77fd25b59f6e563d84f13334f3fed10b"]
 Rx2 = ["ua51ba06b0dd18c0bfe2cc6caa3458202"]
 Rx1 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","u186cf7940c7de8f76a3cbc76405f5f5c"]
 Administrator = admins + Rx5 + Rx4 + Rx3 + Rx2 + Rx1
@@ -116,9 +119,9 @@ wait = {
     'leaveRoom':False,
     'timeline':False,
     'autoAdd':False,
-    'message':"Thanks add meBy.Nunu : http://line.me/ti/p/ShgslAPyYS  ",
+    'message':"Thanks add me  ",
     "lang":"JP",
-    "comment":"Auto like 💗Love💗 : http://line.me/ti/p/ShgslAPyYS  ",
+    "comment":"Auto like by line.me/ti/p/~@enr7503k  ",
     "likeOn":False,
     "commentOn":False,
     "commentBlack":{},
@@ -577,32 +580,32 @@ def bot(op):
             elif msg.text in ["Block url:off"]:
                 if msg.from_ in Administrator:
                     protecturl.remove(msg.to)
-                    cl.sendText(msg.to,"ƛԼԼƠƜЄƊ")
+                    cl.sendText(msg.to,"Allowed")
                 else:
-                    cl.sendText(msg.to,"ƛԼƦЄƛƊƳ")
+                    cl.sendText(msg.to,"Already")
             elif msg.text in ["Urlon"]:
                 if msg.toType == 2:
                     group = cl.getGroup(msg.to)
                     group.preventJoinByTicket = False
                     cl.updateGroup(group)
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"ƲƦԼ ƠƝ ƛԼƦЄƛƊƳ。")
+                        cl.sendText(msg.to,"Url on")
                     else:
-                        cl.sendText(msg.to,"ƛԼƦЄƛƊƳ ƲƦԼ。")
+                        cl.sendText(msg.to,"Already Url")
                 else:
                     if wait["lang"] == "JP":
                         cl.sendText(msg.to,"It can't be used besides the group。")
                     else:
                         cl.sendText(msg.to,"Impossible use besides")
-            elif msg.text in ["ปิดลิ้งค์"]:
+            elif msg.text in ["Urloff"]:
                 if msg.toType == 2:
                     group = cl.getGroup(msg.to)
                     group.preventJoinByTicket = True
                     cl.updateGroup(group)
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"ƲƦԼ ƇԼƠƧЄƊ。")
+                        cl.sendText(msg.to,"Url off")
                     else:
-                        cl.sendText(msg.to,"ƛԼƦЄƛƊƳ ƲƦԼ。")
+                        cl.sendText(msg.to,"Turn off")
                 else:
                     if wait["lang"] == "JP":
                         cl.sendText(msg.to,"It can't be used besides the group。")
@@ -624,7 +627,7 @@ def bot(op):
                             u = "refusal"
                         else:
                             u = "許可"
-                        cl.sendText(msg.to,"[ƓƦƠƲƤ]\n" + str(ginfo.name) + "\n\n[ƓƖƊ]\n" + msg.to + "\n\n[ƓƦƠƲƤ ƇƦЄƛƬƠƦ]\n" + gCreator + "\n\n[ƤƦƠƑƖԼ ƓƦƠƲƤ]\nhttp://dl.profile.line.naver.jp/" + ginfo.pictureStatus + "\n\nMЄMƁЄƦ:" + str(len(ginfo.members)) + "Person\nƖƝƔƖƬЄ:" + sinvitee + "Person\nƖƝƔƖƬƛƬƖƠƝ ƲƦԼ:" + u + "ƖƬ'Ƨ ƬHЄ ƖƝƧƖƊЄ.")
+                        cl.sendText(msg.to,"[Group]\n" + str(ginfo.name) + "\n\n[ƓƖƊ]\n" + msg.to + "\n\n[Group Creator]\n" + gCreator + "\n\n[ƤƦƠƑƖԼ ƓƦƠƲƤ]\nhttp://dl.profile.line.naver.jp/" + ginfo.pictureStatus + "\n\nMЄMƁЄƦ:" + str(len(ginfo.members)) + "Person\nƖƝƔƖƬЄ:" + sinvitee + "Person\nƖƝƔƖƬƛƬƖƠƝ ƲƦԼ:" + u + "ƖƬ'Ƨ ƬHЄ ƖƝƧƖƊЄ.")
                     else:
                         cl.sendText(msg.to,"[名字]\n" + str(ginfo.name) + "\n[gid]\n" + msg.to + "\n[小组的作成者]\n" + gCreator + "\n[小组图标]\nhttp://dl.profile.line.naver.jp/" + ginfo.pictureStatus)
                 else:
@@ -736,9 +739,9 @@ def bot(op):
             elif msg.text in ["Contact:on"]:
                 if wait["contact"] == True:
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"ƇƠƝƬƛƇƬ ƠƝ ƛԼƦЄƛƊƳ。")
+                        cl.sendText(msg.to,"Contact Aktif")
                     else:
-                        cl.sendText(msg.to,"ƛԼƦЄƛƊƳ ƠƝ。")
+                        cl.sendText(msg.to,"Already")
                 else:
                     wait["contact"] = True
                     if wait["lang"] == "JP":
@@ -748,9 +751,9 @@ def bot(op):
             elif msg.text in ["Contact:off"]:
                 if wait["contact"] == False:
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"ƇƠƝƬƛƇƬ ƠƑƑ ƛԼƦЄƛƊƳ。")
+                        cl.sendText(msg.to,"Contact Off")
                     else:
-                        cl.sendText(msg.to,"ƛԼƦЄƛƊƳ ƠƑƑ。")
+                        cl.sendText(msg.to,"Turn off")
                 else:
                     wait["contact"] = False
                     if wait["lang"] == "JP":
@@ -760,9 +763,9 @@ def bot(op):
             elif msg.text in ["Auto join:on"]:
                 if wait["autoJoin"] == True:
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"ʆƠƖƝ ƠƝ ƛԼƦЄƛƊƳ。")
+                        cl.sendText(msg.to,"Auto Aktif")
                     else:
-                        cl.sendText(msg.to,"ƛԼƦЄƛƊƳ ƠƝ。")
+                        cl.sendText(msg.to,"Already")
                 else:
                     wait["autoJoin"] = True
                     if wait["lang"] == "JP":
@@ -772,9 +775,9 @@ def bot(op):
             elif msg.text in ["Auto join:off"]:
                 if wait["autoJoin"] == False:
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"ʆƠƖƝ ƠƑƑ ƛԼƦЄƛƊƳ。")
+                        cl.sendText(msg.to,"Auto Non-Aktif")
                     else:
-                        cl.sendText(msg.to,"ƛԼƦЄƛƊƳ ƠƑƑ。")
+                        cl.sendText(msg.to,"Turn off")
                 else:
                     wait["autoJoin"] = False
                     if wait["lang"] == "JP":
@@ -850,7 +853,7 @@ def bot(op):
                         cl.sendText(msg.to,"done")
                     else:
                         cl.sendText(msg.to,"Already。")                        
-            elif "ตั้งค่า" == msg.text:
+            elif "Status" == msg.text:
                 md = ""
                 if wait["contact"] == True: md+="✔ Contact → on \n"       
                 else: md+="❌ Contact → off \n"      
@@ -875,7 +878,7 @@ def bot(op):
                 for i in gid:
                     g += "[%s]:%s\n" % (cl.getGroup(i).name,i)
                 cl.sendText(msg.to,g)
-            elif msg.text in ["ลบรัน"]:
+            elif msg.text in ["Recheck"]:
                 gid = cl.getGroupIdsInvited()
                 for i in gid:
                     cl.rejectGroupInvitation(i)
@@ -945,7 +948,7 @@ def bot(op):
                 else:
                     wait["lang"] = "JP"
                     cl.sendText(msg.to,". The language was made English。")
-            elif msg.text in ["ลิ้งค์"]:
+            elif msg.text in ["Gurl"]:
                 if msg.toType == 2:
                     x = cl.getGroup(msg.to)
                     if x.preventJoinByTicket == True:
@@ -1027,7 +1030,7 @@ def bot(op):
                     cl.sendText(msg.to,"It was renewed。")
                 else:
                     cl.sendText(msg.to,"Please turn on a name clock.。")
-            elif "แท๊ก" in msg.text:
+            elif "Kam" in msg.text:
                 group = cl.getGroup(msg.to)
                 k = len(group.members)//100
                 for j in xrange(k+1):
@@ -1042,7 +1045,7 @@ def bot(op):
                     msg.text = txt
                     msg.contentMetadata = {u'MENTION':json.dumps({"MENTIONEES":d})}
                     cl.sendMessage(msg) 
-            elif "Kicker" in msg.text:
+            elif "@say" in msg.text:
                   X = cl.getGroup(msg.to)                    
                   X.preventJoinByTicket = False
                   cl.updateGroup(X)
@@ -1124,7 +1127,47 @@ def bot(op):
                                 print (msg.to,[g.mid])
                             except:
                                 ki.sendText(msg.to,"ЄƦƦƠƦ")
-#-----------------------------------------------------------                          
+#---------------------------------------------------------------
+            elif "Copy " in msg.text:
+                copy0 = msg.text.replace("Copy ","")
+                copy1 = copy0.lstrip()
+                copy2 = copy1.replace("@","")
+                copy3 = copy2.rstrip()
+                _name = copy3
+		group = cl.getGroup(msg.to)
+		for contact in group.members:
+		    cname = cl.getContact(contact.mid).displayName
+		    if cname == _name:
+			cl.CloneContactProfile(contact.mid)
+			cl.sendText(msg.to, "Success~")
+		    else:
+			pass
+#---------------------------------------------------------------      
+            elif "Backup me" in msg.text:
+		try:
+		    cl.updateDisplayPicture(profile.pictureStatus)
+		    cl.updateProfile(profile)
+		    cl.sendText(msg.to, "Success backup profile")
+		except Exception as e:
+		    cl.sendText(msg.to, str(e))
+#-----------------------------------------------------------------
+           elif msg.text in ["List group"]:
+                gid = cl.getGroupIdsJoined()
+                h = ""
+		jml = 0
+                for i in gid:
+		    gn = cl.getGroup(i).name
+                    h += "♦【%s】\n" % (gn)
+		    jml += 1
+                cl.sendText(msg.to,"======[List Group]======\n"+ h +"Total group: "+str(jml))
+#-------------------------------------------------------------------------
+            elif "Bc: " in msg.text:
+		bc = msg.text.replace("Bc: ","")
+		gid = cl.getGroupIdsJoined()
+		for i in gid:
+		    cl.sendText(i,"=======[BROADCAST]=======\n\n"+bc+"\n\nContact Me : line.me/ti/p/~@xpk5386g")
+		cl.sendText(msg.to,"Success BC BosQ")
+  #-----------------------------------------------------------                          
             elif "Kick" in msg.text:
                 if msg.contentMetadata is not None:
                     targets = []
